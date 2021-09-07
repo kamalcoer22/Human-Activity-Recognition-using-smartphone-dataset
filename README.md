@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-using-smartphone-dataset
+Human Activity Recognition using smartphone  dataset : Data Classification and analysis using different Machine learning Technique like Decision Tree, K-Nearest Neighbour, Gussian Naive Bayes, Logistics Regression,Support Vector Machine, NLP Classifier.  Principal companat anlysis and Extra tree based Feature selection and final result comparison with and without feature selection 
